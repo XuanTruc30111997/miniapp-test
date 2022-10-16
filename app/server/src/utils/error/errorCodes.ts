@@ -1,0 +1,4 @@
+export enum ERROR_CODE {
+    DEFAULT_APP_GENERIC_ERROR_ID = 'TEST0001',
+    DEFAULT_APP_GENERIC_ERROR_MESSAGE = 'Unexpected error in BFF'
+}
